@@ -1,11 +1,19 @@
-// SOAL UAS
-// SOal 1 Input banyaknya bari dan kolom lalu diisi nilai lalu tukarkan kolom jadi bari baris jadi kolom
-// soal 2 Buat pada array 2 dimensi angka angka (menampilkan bilangan yang habis dibagi 3,5,7;
-// semangatt
+# Ujian Akhir Semester
+<br> Mata Kuliah	: Dasar Pemrograman
+<br> Nama		: Nazwa Hemalia Putri
+<br> Jurusan		: [Teknik Informatika]
+(http://if.uinsgd.ac./) [UIN Sunan Gunung Djati Bandung] (https://uinsgd.ac.id/)
+
+## Deskripsi Umum
+
+## Source Code
 
 #include<iostream>
 using namespace std;
 
+// SOal 1 Input banyaknya bari dan kolom lalu diisi nilai lalu tukarkan kolom jadi bari baris jadi kolom
+// soal 2 Buat pada array 2 dimensi angka angka (menampilkan bilangan yang habis dibagi 3,5,7;
+// semangatt
 int main (){
 	
 	cout << " ==============================================\n";
@@ -63,6 +71,12 @@ int main (){
 	}
 	cout << " \n\tTERIMA KASIH " << endl;
 	}
+
+## Output
+
+
+
+
 		
 	
 	
