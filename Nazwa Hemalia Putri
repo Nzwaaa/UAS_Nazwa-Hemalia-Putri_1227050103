@@ -1,0 +1,69 @@
+// SOAL UAS
+// SOal 1 Input banyaknya bari dan kolom lalu diisi nilai lalu tukarkan kolom jadi bari baris jadi kolom
+// soal 2 Buat pada array 2 dimensi angka angka (menampilkan bilangan yang habis dibagi 3,5,7;
+// semangatt
+
+#include<iostream>
+using namespace std;
+
+int main (){
+	
+	cout << " ==============================================\n";
+	cout << " || Nama\t: Nazwa Hemalia Putri        ||\n";
+	cout << " || NIM\t\t: 1227050103                 ||\n";
+	cout << " || Kelas\t: IF-1C                      ||\n";
+	cout << " ==============================================\n";
+	
+	int kolom, baris, x[50][50], matriks;
+		cout << " \n INPUTKAN BARIS\t\t : ";
+		cin >> baris;
+		cout << " INPUTKAN KOLOM\t\t : ";
+		cin >> kolom;
+		
+		//Soal no 1
+		//untuk menginput nilai baris dan kolom
+		cout << " \n 1. Input Nilai baris dan kolom lalu dibalik " << endl;
+		cout << endl;
+		for ( int i=1; i<=baris; i++){
+			for ( int j=1; j<=kolom; j++){	
+			cout << " Baris ke  " << i <<" Kolom ke  "<<j<< "  : ";
+			cin >> x[i][j];
+			}
+		cout<<endl;
+		}
+			
+		//Output Hasil Matriksnya
+		cout << " HASIL MATRIKSNYA SEBAGAI BERIKUT : \n";
+		for ( int i=1; i<=baris; i++){
+			for ( int j=1; j<=kolom; j++){	
+			cout << " "  << x [i][j] << " " ;
+			}
+		cout<<endl;
+		}
+		cout << endl;
+		//Output Hasil matrik dibalik kolom jadi baris
+		cout << " HASIL JIKA BARIS DAN KOLOM DIBALIK SEBAGAI BERIKUT :\n";
+		for ( int i=1; i<=kolom; i++){
+			for ( int j=1; j<=baris; j++){	
+			cout << " " << x [j] [i];
+			}
+		cout << endl ;
+		}
+		
+		cout << " \n==============================================\n";
+		//soal no 2	
+		//untuk print yang habis dibagi 3,5 sama 7
+		cout << " 2. BILANGAN YANG HABIS  DIBAGI 3, 5, 7 SEBAGAI BERIKUT :\n " << endl;
+		 for (int i = 1; i <= kolom; i++) {
+		for (int j = 1; j <= baris; j++) {
+			if (x[i][j] % 3 == 0 && x[i][j] % 5 == 0 && x[i][j] % 7 == 0) {
+				cout << " " <<  x[i][j];
+			} 
+		}
+	}
+	cout << " \n\tTERIMA KASIH " << endl;
+	}
+		
+	
+	
+	
