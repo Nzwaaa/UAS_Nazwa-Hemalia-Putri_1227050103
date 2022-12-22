@@ -79,37 +79,37 @@ int main (){
 ```
 ## Output
 
-==============================================
- || Nama        : Nazwa Hemalia Putri        ||
- || NIM         : 1227050103                 ||
- || Kelas       : IF-1C                      ||
- ==============================================
+<br>==============================================
+ <br>|| Nama        : Nazwa Hemalia Putri        ||
+ <br>|| NIM         : 1227050103                 ||
+ <br>|| Kelas       : IF-1C                      ||
+ <br>==============================================
 
- INPUTKAN BARIS          : 2
- INPUTKAN KOLOM          : 2
+ <br>INPUTKAN BARIS          : 2
+ <br>INPUTKAN KOLOM          : 2
 
- 1. Input Nilai baris dan kolom lalu dibalik
+ <br>1. Input Nilai baris dan kolom lalu dibalik
 
- Baris ke  1 Kolom ke  1  : 105
- Baris ke  1 Kolom ke  2  : 7
+<br>Baris ke  1 Kolom ke  1  : 105
+ <br>Baris ke  1 Kolom ke  2  : 7
 
- Baris ke  2 Kolom ke  1  : 105
- Baris ke  2 Kolom ke  2  : 100
+ <br>Baris ke  2 Kolom ke  1  : 105
+ <br>Baris ke  2 Kolom ke  2  : 100
 
- HASIL MATRIKSNYA SEBAGAI BERIKUT :
- 105  7
- 105  100
+ <br>HASIL MATRIKSNYA SEBAGAI BERIKUT :
+ <br>105  7
+ <br>105  100
 
- HASIL JIKA BARIS DAN KOLOM DIBALIK SEBAGAI BERIKUT :
- 105 105
- 7 100
+ <br>HASIL JIKA BARIS DAN KOLOM DIBALIK SEBAGAI BERIKUT :
+ <br>105 105
+ <br>7 100
 
-=======================================================
+<br>=======================================================
 
- 2. BILANGAN YANG HABIS  DIBAGI 3, 5, 7 SEBAGAI BERIKUT :
+ <br>2. BILANGAN YANG HABIS  DIBAGI 3, 5, 7 SEBAGAI BERIKUT :
 
- Habis dibagi 3, 5, dan 7        : 105
- Habis dibagi 7                  : 7
- Habis dibagi 3, 5, dan 7        : 105
+ <br>Habis dibagi 3, 5, dan 7        : 105
+ <br>Habis dibagi 7                  : 7
+ <br>Habis dibagi 3, 5, dan 7        : 105
 
---------------------------------
+<br>--------------------------------
