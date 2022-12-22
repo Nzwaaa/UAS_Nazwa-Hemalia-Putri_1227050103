@@ -5,7 +5,7 @@
 (http://if.uinsgd.ac./) [UIN Sunan Gunung Djati Bandung] (https://uinsgd.ac.id/)
 
 ## Deskripsi Umum
-Program ini dibuat untuk memenuhi Ujuan AKhir Semester Mata Kuliah Dasar Pemrograman. Dalam Program ini digunakan fungsi array dan pengulangan for.
+Program ini dibuat untuk memenuhi Ujian AKhir Semester Mata Kuliah Dasar Pemrograman. Dalam Program ini digunakan fungsi array dan pengulangan for.
 program pertama menginputkan nilai bari dan kolom lalu hasil nilai baris dan kolom dibalik dari kolom menjadi baris. kemudian program yang kedua untuk
 mencari bilangan yang habis dibagi 3, 5 dan 7 dari hasil inputan program pertama.
 
