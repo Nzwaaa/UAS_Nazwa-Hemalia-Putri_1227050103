@@ -6,7 +6,7 @@
 
 ## Deskripsi Umum
 Program ini dibuat untuk memenuhi Ujian AKhir Semester Mata Kuliah Dasar Pemrograman. Dalam Program ini digunakan fungsi array dan pengulangan for.
-program pertama menginputkan nilai bari dan kolom lalu hasil nilai baris dan kolom dibalik dari kolom menjadi baris. kemudian program yang kedua untuk
+program pertama menginputkan nilai baris dan kolom lalu hasil nilai baris dan kolom dibalik dari kolom menjadi baris. kemudian program yang kedua untuk
 mencari bilangan yang habis dibagi 3, 5 dan 7 dari hasil inputan program pertama.
 
 ## Source Code
